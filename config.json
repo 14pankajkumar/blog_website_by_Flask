@@ -1,0 +1,23 @@
+{
+    "params":
+    {
+        "local_uri": "mysql+pymysql://root:@localhost/blog_site",
+        "prod_uri": "mysql+pymysql://root:Pankaj14@#@localhost/blog_site",
+        "fb_url": "https://facebook.com/",
+        "twt_url": "https://twitter.com/14pankajkumar",
+        "git_url": "https://github.com/14pankajkumar",
+        "blog_name": "The Blogger",
+        "tag_line": "A blog liked by Proggramers",
+        "site_name": "TheBlogger",
+        "gmail_user": "pank4139@gmail.com",
+        "gmail_password": "Pankaj14@#",
+        "about_text": "Hi I am Pankaj. I developed this website and I am a software engineer and programmer",
+        "no_of_posts": 2,
+        "login_img":"login.svg",
+        "admin_user":"Pankaj",
+        "admin_password":"Pankaj",
+        "upload_location":"C:\\Users\\panka\\VS Projects\\Python projects\\website\\static\\img"
+
+    }
+
+}
